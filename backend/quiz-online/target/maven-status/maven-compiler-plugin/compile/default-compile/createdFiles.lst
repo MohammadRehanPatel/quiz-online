@@ -1,0 +1,6 @@
+com\quiz\quizonline\service\QuestionService.class
+com\quiz\quizonline\model\Question.class
+com\quiz\quizonline\controller\QuestionController.class
+com\quiz\quizonline\QuizOnlineApplication.class
+com\quiz\quizonline\repository\QuestionRepository.class
+com\quiz\quizonline\service\IQuestionService.class
